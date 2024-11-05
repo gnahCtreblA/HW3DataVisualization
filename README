@@ -1,4 +1,4 @@
 Hello! Welcome to my data visualization homework!
-My data set is contained withen the dataset directory, and my source codes are in the scripts directory.
-I used matoplotlib and panel to create my plots. My non interactive plots should be visible inside of the
-datavisualization jupyter notebook, and my interactive plot is in my scripts directory.
+My data set is contained within the dataset directory, and my source codes are in the scripts directory.
+I used matoplotlib and panel to create my plots. My non interactive and interactive plots should be visible inside of the
+datavisualization jupyter notebook.
